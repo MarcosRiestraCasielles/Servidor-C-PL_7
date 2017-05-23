@@ -1,0 +1,5 @@
+D:\Users\UO239750\Desktop\PLsAplicaciones\Practica4\DistancesLibrary\DistancesLibrary\bin\Debug\DistancesLibrary.dll
+D:\Users\UO239750\Desktop\PLsAplicaciones\Practica4\DistancesLibrary\DistancesLibrary\bin\Debug\DistancesLibrary.pdb
+D:\Users\UO239750\Desktop\PLsAplicaciones\Practica4\DistancesLibrary\DistancesLibrary\obj\Debug\DistancesLibrary.csprojResolveAssemblyReference.cache
+D:\Users\UO239750\Desktop\PLsAplicaciones\Practica4\DistancesLibrary\DistancesLibrary\obj\Debug\DistancesLibrary.dll
+D:\Users\UO239750\Desktop\PLsAplicaciones\Practica4\DistancesLibrary\DistancesLibrary\obj\Debug\DistancesLibrary.pdb

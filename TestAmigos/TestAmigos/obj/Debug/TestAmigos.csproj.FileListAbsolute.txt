@@ -1,0 +1,13 @@
+D:\Users\UO239750\Desktop\PLsAplicaciones\Practica6\TestAmigos\TestAmigos\bin\Debug\TestAmigos.exe.config
+D:\Users\UO239750\Desktop\PLsAplicaciones\Practica6\TestAmigos\TestAmigos\bin\Debug\TestAmigos.exe
+D:\Users\UO239750\Desktop\PLsAplicaciones\Practica6\TestAmigos\TestAmigos\bin\Debug\TestAmigos.pdb
+D:\Users\UO239750\Desktop\PLsAplicaciones\Practica6\TestAmigos\TestAmigos\bin\Debug\Newtonsoft.Json.dll
+D:\Users\UO239750\Desktop\PLsAplicaciones\Practica6\TestAmigos\TestAmigos\bin\Debug\System.Net.Http.Formatting.dll
+D:\Users\UO239750\Desktop\PLsAplicaciones\Practica6\TestAmigos\TestAmigos\bin\Debug\Newtonsoft.Json.xml
+D:\Users\UO239750\Desktop\PLsAplicaciones\Practica6\TestAmigos\TestAmigos\bin\Debug\System.Net.Http.Formatting.xml
+D:\Users\UO239750\Desktop\PLsAplicaciones\Practica6\TestAmigos\TestAmigos\obj\Debug\TestAmigos.csprojResolveAssemblyReference.cache
+D:\Users\UO239750\Desktop\PLsAplicaciones\Practica6\TestAmigos\TestAmigos\obj\Debug\TestAmigos.exe
+D:\Users\UO239750\Desktop\PLsAplicaciones\Practica6\TestAmigos\TestAmigos\obj\Debug\TestAmigos.pdb
+D:\Usuarios\Marcos\Documentos\4ºTeleco\Aplicaciones_telemáticas\PL\PL_7\TestAmigos\TestAmigos\bin\Debug\TestAmigos.exe.config
+D:\Usuarios\Marcos\Documentos\4ºTeleco\Aplicaciones_telemáticas\PL\PL_7\TestAmigos\TestAmigos\obj\Debug\TestAmigos.exe
+D:\Usuarios\Marcos\Documentos\4ºTeleco\Aplicaciones_telemáticas\PL\PL_7\TestAmigos\TestAmigos\obj\Debug\TestAmigos.pdb

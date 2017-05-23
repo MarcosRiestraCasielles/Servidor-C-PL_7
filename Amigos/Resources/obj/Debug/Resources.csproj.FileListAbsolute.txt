@@ -1,0 +1,16 @@
+D:\Usuarios\Marcos\Documentos\4Teleco\AplicacionesTelematicas\PL\PL_7\Amigos\Resources\bin\Debug\Resources.dll
+D:\Usuarios\Marcos\Documentos\4Teleco\AplicacionesTelematicas\PL\PL_7\Amigos\Resources\bin\Debug\Resources.pdb
+D:\Usuarios\Marcos\Documentos\4Teleco\AplicacionesTelematicas\PL\PL_7\Amigos\Resources\bin\Debug\Newtonsoft.Json.dll
+D:\Usuarios\Marcos\Documentos\4Teleco\AplicacionesTelematicas\PL\PL_7\Amigos\Resources\bin\Debug\System.Net.Http.Formatting.dll
+D:\Usuarios\Marcos\Documentos\4Teleco\AplicacionesTelematicas\PL\PL_7\Amigos\Resources\bin\Debug\System.Web.Http.dll
+D:\Usuarios\Marcos\Documentos\4Teleco\AplicacionesTelematicas\PL\PL_7\Amigos\Resources\bin\Debug\System.Web.Http.WebHost.dll
+D:\Usuarios\Marcos\Documentos\4Teleco\AplicacionesTelematicas\PL\PL_7\Amigos\Resources\bin\Debug\Newtonsoft.Json.xml
+D:\Usuarios\Marcos\Documentos\4Teleco\AplicacionesTelematicas\PL\PL_7\Amigos\Resources\bin\Debug\System.Net.Http.Formatting.xml
+D:\Usuarios\Marcos\Documentos\4Teleco\AplicacionesTelematicas\PL\PL_7\Amigos\Resources\bin\Debug\System.Web.Http.xml
+D:\Usuarios\Marcos\Documentos\4Teleco\AplicacionesTelematicas\PL\PL_7\Amigos\Resources\bin\Debug\System.Web.Http.WebHost.xml
+D:\Usuarios\Marcos\Documentos\4Teleco\AplicacionesTelematicas\PL\PL_7\Amigos\Resources\obj\Debug\Resources.csprojResolveAssemblyReference.cache
+D:\Usuarios\Marcos\Documentos\4Teleco\AplicacionesTelematicas\PL\PL_7\Amigos\Resources\obj\Debug\Resources.Resources-es.resources
+D:\Usuarios\Marcos\Documentos\4Teleco\AplicacionesTelematicas\PL\PL_7\Amigos\Resources\obj\Debug\Resources.Resources.resources
+D:\Usuarios\Marcos\Documentos\4Teleco\AplicacionesTelematicas\PL\PL_7\Amigos\Resources\obj\Debug\Resources.csproj.GenerateResource.Cache
+D:\Usuarios\Marcos\Documentos\4Teleco\AplicacionesTelematicas\PL\PL_7\Amigos\Resources\obj\Debug\Resources.dll
+D:\Usuarios\Marcos\Documentos\4Teleco\AplicacionesTelematicas\PL\PL_7\Amigos\Resources\obj\Debug\Resources.pdb
